@@ -2,6 +2,10 @@ Issues with v1:
 
  * Include 3U keycap length in information pane.
 
+ * Change information pane to 2.25U so it will fit on the back of a 15 cm ruler.
+
+ * Add a QR code link to the GitHub repo to the info pane?
+
  * Figure out why LibreOffice distorts the sizes of things when exporting to a PDF.
    * E.g.: 18 mm 1U -> 17 mm, which ruins the labels.
 
