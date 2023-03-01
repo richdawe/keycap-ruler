@@ -1,0 +1,11 @@
+Issues with v1:
+
+ * Include 3U keycap length in information pane.
+
+ * Figure out why LibreOffice distorts the sizes of things when exporting to a PDF.
+   * E.g.: 18 mm 1U -> 17 mm, which ruins the labels.
+
+For v2:
+
+ * Use wider labels, with keycap labels pre-arranged, to produce a neater result. E.g.: 15 cm wide with 1U-2U keycap shapes, which can be cut out and printed in one go and stuck on neatly.
+ * Would this look better with transparent labels?
