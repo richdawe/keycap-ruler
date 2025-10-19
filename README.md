@@ -12,6 +12,9 @@ Both versions can be found in this repository, and are open source. See the sect
 
 There is a section below on each version of the ruler.
 
+> [!TIP]
+> I also recommend that you take a look at Technofrikus' [keyboard-unit-pcb-ruler](https://github.com/Technofrikus/keyboard-unit-pcb-ruler), which you can buy from Keeb.supply in Germany as [The Unit](https://keeb.supply/products/the-unit). As well as helping to measure keycaps, it has a lot of other cool details.
+
 ## Inspiration
 
 Thank you to the authors of the following resources!
